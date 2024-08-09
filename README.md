@@ -1,5 +1,5 @@
 # 💫 Hey Im Jeremy
-- 💼 Business Analyst with a Fintech Startup utilizing SQL and Python for predictions<br>- 🔭 I’m currently working on enhancing my data analytics knowledge with personal projects in Sports and Finance<br>- 💬 Applied Mathematics Engineering Graduate from Queen's University (https://www.queensu.ca/mathstat/undergraduate/prospective-undergraduate/mthe)<br>- 📫 Reach me via email at jeremygonsalves98@gmail.com<br>- 😄 Pronouns: He/Him/His
+<br>- 💼 Business Analyst with a Fintech Startup utilizing SQL and Python for predictions<br>- 🔭 I’m currently working on enhancing my data analytics knowledge with personal projects in Sports and Finance<br>- 💬 Applied Mathematics Engineering Graduate from Queen's University (https://www.queensu.ca/mathstat/undergraduate/prospective-undergraduate/mthe)<br>- 📫 Reach me via email at jeremygonsalves98@gmail.com<br>- 😄 Pronouns: He/Him/His
 
 
 ## 🌐 Socials
