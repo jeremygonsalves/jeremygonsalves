@@ -1,9 +1,12 @@
-# 💫 Hey I'm Jeremy
-<br>- 💼 Business Analyst with a Fintech Startup utilizing SQL and Python for predictions<br>- 🔭 I’m currently working on enhancing my data analytics knowledge with personal projects in Sports and Finance<br>- 💬 Applied Mathematics Engineering Graduate from Queen's University (https://www.queensu.ca/mathstat/undergraduate/prospective-undergraduate/mthe)<br>- 📫 Reach me via email at jeremygonsalves98@gmail.com<br>- 😄 Pronouns: He/Him/His
+# Hey I'm Jeremy
+<br>- Business Intelligence Analyst @ TD Bank utilizing SQL, and Python in Pyspark for predictions<br>- 🔭 I’m currently working on enhancing my data science knowledge with personal projects in Sports and Finance<br>- 💬 Applied Mathematics Engineering Graduate from Queen's University (https://www.queensu.ca/mathstat/undergraduate/prospective-undergraduate/mthe)<br>- 📫 Reach me via email at jeremygonsalves98@gmail.com<br>- 😄 Pronouns: He/Him/His
 <br>- Website: https://jeremygonsalves.com/
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremy-gonsalves/) 
+
+## Website
+[![Portfolio](https://jeremygonsalves.com/)
 
 
 # 💻 Tech Stack
